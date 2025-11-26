@@ -1,9 +1,16 @@
+
 project = 'dokumentacja RtD'
 author = 'Jakub Borkowski 4tp'
 release = '1.0'
 
+extensions = [
+    'sphinx_rtd_theme',
+]
 
+templates_path = ['_templates']
+exclude_patterns = []
 
-extensions = []
+master_doc = 'index' 
+
 html_theme = 'sphinx_rtd_theme'
-master_doc = 'index'
+html_static_path = ['_static']
