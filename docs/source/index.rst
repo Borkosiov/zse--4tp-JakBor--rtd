@@ -7,6 +7,5 @@ Poniżej znajduje się spis treści dokumentacji.
    :maxdepth: 2
    :caption: Spis treści
 
-   index
    autor
    zadanie3
