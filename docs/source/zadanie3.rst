@@ -65,9 +65,8 @@ Pojęcie
 Obraz
 ------
 
-.. image:: stock.png
+.. image:: docs/stock.png
    :alt: Przykładowy obraz
-   :caption: Przykład obrazu w dokumentacji
 
 Tabela
 -------
