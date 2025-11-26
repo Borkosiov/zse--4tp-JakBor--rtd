@@ -1,9 +1,6 @@
 Składnia elementów dokumentu
 ===========================
 
-Nagłówek 1
-==========
-
 Nagłówek 2
 ----------
 
@@ -11,12 +8,12 @@ Nagłówek 3
 ~~~~~~~~~~
 
 Nagłówek 4
-""""""""""""""""
+^^^^^^^^^^
 
 Akapit tekstowy
 ----------------
 
-To jest przykładowy akapit tekstu RST.
+*Kursywa* i **pogrubienie**
 
 Akapity informacyjne
 ---------------------
