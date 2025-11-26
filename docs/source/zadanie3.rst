@@ -1,9 +1,6 @@
 Składnia elementów dokumentu
 ===========================
 
-Nagłówki tekstowe
------------------
-
 Nagłówek 1
 ==========
 
