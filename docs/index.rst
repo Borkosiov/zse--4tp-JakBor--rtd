@@ -1,4 +1,4 @@
-Witamy w dokumentacji projektu!
+witam na stronie głównej
 ===============================
 
 Poniżej znajduje się spis treści dokumentacji.
