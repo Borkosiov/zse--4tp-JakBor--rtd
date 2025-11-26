@@ -65,7 +65,7 @@ Pojęcie
 Obraz
 ------
 
-.. image:: docs/stock.png
+.. image:: ../stock.png
    :alt: Przykładowy obraz
 
 Tabela
