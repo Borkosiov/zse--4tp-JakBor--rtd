@@ -1,4 +1,4 @@
-witam na stronie głównej
+Strona główna
 ===============================
 
 Poniżej znajduje się spis treści dokumentacji.
